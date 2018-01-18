@@ -1,8 +1,4 @@
-# ReduxSimpleStarter
-
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
-
-### Getting Started
+# Blog-Redux
 
 Simple blog built with React, Redux, and React Router.
 
